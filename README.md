@@ -1,4 +1,4 @@
-# CodingPlatform with Integrated Mobile Compiler 
+# Coding Platform with Integrated Mobile Compiler 
 
 A robust, full-stack mobile-responsive web application designed to evaluate, compile, and run multiple programming languages while offering a structured learning roadmap for student developers.
 
